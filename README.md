@@ -15,6 +15,6 @@ Project Management Tool is a web-based Tasks management system developed as Task
 <li>JavaScript</li>
 
 ## `Installation`
-<li>Clone the repository: git clone https://github.com/susmitamazumdar/project-management.git </li>
+<li>Clone the repository: git clone https://github.com/SUSMAZU/Project-management-tool.git </li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the index.html file in a web browser.</li>
